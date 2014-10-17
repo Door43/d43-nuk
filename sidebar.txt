@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nuk:home|Door43 (nuk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nuk|d43-nuk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nuk/archive/master.zip|d43-nuk.zip]]
+
+**Recent Changes**
+{{changes>ns = nuk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nuk|Ethnologue data]]
+
